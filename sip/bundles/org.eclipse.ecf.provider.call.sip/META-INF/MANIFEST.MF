@@ -24,4 +24,4 @@ Export-Package: org.eclipse.ecf.provider.call.sip,
  org.eclipse.ecf.provider.call.sip.identity
 Bundle-ClassPath: lib/fmj.jar,
  lib/jain-sip-sdp-1.2.102.jar,
- lib/org.apache.log4j_1.2.13.v200903072027 (1).jar
+ lib/log4j-1.2.13.jar
